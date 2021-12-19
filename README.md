@@ -10,7 +10,8 @@ My name is CJ and though I'm a musician by trade, I'm working towards expanding 
 - 💻 HTML, CSS, JS
 - 🎼 Music Notation
 - 🔠 Font Development
- 
+
+## 
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on Music Tech, Font Work/Design, or anything creative/artsy 
 - 🤔 I’m looking for help with finding my place in the file 
