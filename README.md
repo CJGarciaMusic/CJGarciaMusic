@@ -7,6 +7,7 @@ My name is CJ and though I'm a musician by trade, I'm working towards expanding 
 ## Skills and Experience: 
 - 🐍 Python
 - 🌕 Lua 
+- 🍎 AppleScript
 - 💻 HTML, CSS, JS
 - 🎼 Music Notation
 - 🔠 Font Development
@@ -17,9 +18,9 @@ My name is CJ and though I'm a musician by trade, I'm working towards expanding 
 - 🤔 I’m looking for help with finding my place in the file 
 - 😄 Pronouns: He/Him/His 
 
-
+## 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CJGarciaMusic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cj-garcia-music/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cjgarciamusic.wixsite.com/cjgm)  
 
 
-
+## 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjgarciamusic)](https://github.com/anuraghazra/github-readme-stats)
