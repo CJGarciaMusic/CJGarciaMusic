@@ -15,7 +15,7 @@ My name is CJ and though I'm a musician by trade, I'm working towards expanding 
 ## 
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on Music Tech, Font Work/Design, or anything creative/artsy 
-- 🤔 I’m looking for help with finding my place in the file 
+- 🤔 I’m looking for help with finding my place in the field 
 - 😄 Pronouns: He/Him/His 
 
 ## 
