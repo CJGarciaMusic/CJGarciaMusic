@@ -1,11 +1,6 @@
-<style>
-titleColor{
-    color:lightblue;
-}
-</style>
 ![](https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/23275513_148134022584843_2723112266250699551_o.png?_nc_cat=111&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lPFo3lqT2F8AX_jETCS&_nc_ht=scontent-atl3-2.xx&oh=00_AT_hYBDLPctF_cm6BOGjETTSXR72kyz_bwCa1ypgvkzqcg&oe=61E3E3CE)
 
-# <titleColor>CJ Garcia</titleColor>
+# CJ Garcia
 ## Musician by trade🎵, aspiring software engineer 🧑‍💻
 My name is CJ and though I'm a musician by trade, I'm working towards expanding my skillset in the world of software engineering with the hopes in combining these two fields in the future. Making music accessible is something that I have a deep passion for and have found that the best way that I can help do that is to break down the technical barriers for educators so that they can focus on teaching. I am currently a Software Engineering Apprentice at Google, so you'll mostly find these niche music projects and some learning projects here. Let's dive in, yeah?
 
