@@ -1,4 +1,4 @@
-![](https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/23275513_148134022584843_2723112266250699551_o.png?_nc_cat=111&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lPFo3lqT2F8AX_jETCS&_nc_ht=scontent-atl3-2.xx&oh=00_AT_hYBDLPctF_cm6BOGjETTSXR72kyz_bwCa1ypgvkzqcg&oe=61E3E3CE)
+![](https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/23275513_148134022584843_2723112266250699551_o.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JT-IQFw4ZrwAX9hmaY2&_nc_ht=scontent-atl3-2.xx&oh=00_AT-zbPZqzfsjjH7EioLeAEruvcinerzzNNwnQYZOKnAiXA&oe=6242CFCE)
 
 # CJ Garcia
 ## Musician by trade🎵, aspiring software engineer 🧑‍💻
