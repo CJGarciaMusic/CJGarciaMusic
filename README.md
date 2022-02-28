@@ -1,7 +1,8 @@
-![](https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/23275513_148134022584843_2723112266250699551_o.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JT-IQFw4ZrwAX9hmaY2&_nc_ht=scontent-atl3-2.xx&oh=00_AT-zbPZqzfsjjH7EioLeAEruvcinerzzNNwnQYZOKnAiXA&oe=6242CFCE)
 
 # CJ Garcia
 ## Musician by trade🎵, aspiring software engineer 🧑‍💻
+![](https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/23275513_148134022584843_2723112266250699551_o.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JT-IQFw4ZrwAX9hmaY2&_nc_ht=scontent-atl3-2.xx&oh=00_AT-zbPZqzfsjjH7EioLeAEruvcinerzzNNwnQYZOKnAiXA&oe=6242CFCE)
+
 My name is CJ and though I'm a musician by trade, I'm working towards expanding my skillset in the world of software engineering with the hopes in combining these two fields in the future. Making music accessible is something that I have a deep passion for and have found that the best way that I can help do that is to break down the technical barriers for educators so that they can focus on teaching. I am currently a Software Engineering Apprentice at Google, so you'll mostly find these niche music projects and some learning projects here. Let's dive in, yeah?
 
 ## Skills and Experience: 
