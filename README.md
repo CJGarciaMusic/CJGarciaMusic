@@ -1,6 +1,6 @@
 
 # CJ Garcia
-## Musician by trade🎵, aspiring software engineer 🧑‍💻
+## Musician 🎵 - Software Engineer 🧑‍💻
 ![cjgmusic](https://github.com/CJGarciaMusic/Sandbox/blob/master/CJGM%20cover%20image.png?raw=true)
 
 My name is CJ and though I'm a musician by trade, I'm working towards expanding my skillset in the world of software engineering with the hopes in combining these two fields in the future. Making music accessible is something that I have a deep passion for and have found that the best way that I can help do that is to break down the technical barriers for educators so that they can focus on teaching. I am currently a Software Engineering Apprentice at Google, so you'll mostly find these niche music projects and some learning projects here. Let's dive in, yeah?
@@ -9,7 +9,7 @@ My name is CJ and though I'm a musician by trade, I'm working towards expanding 
 - 🎯 Flutter/Dart
 - 🅰️ Angular/TypeScript
 - 🌑 Lua 
-- ☕Java
+- ☕ Java
 - 🐍 Python
 - 🍎 AppleScript
 - 💻 HTML, CSS, JS
@@ -18,7 +18,7 @@ My name is CJ and though I'm a musician by trade, I'm working towards expanding 
 
 ## 
 - 🌱 I’m currently learning Full Stack Development 
-- 👯 I’m looking to collaborate on UX designers, music tech, font work, or anything creative/artsy 
+- 👯 I’m looking to collaborate on UX designers, backend devs, music tech, font work, or anything creative/artsy 
 - 🤔 I’m looking for help with finding front end developer positions 
 - 😄 Pronouns: He/Him/His 
 
